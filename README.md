@@ -1,3 +1,5 @@
+![images](https://github.com/colortheory42/any_size_french_fries/assets/106903880/57bb787b-2c95-4d34-8996-4840b98175fe)
+
 # any_size_french_fries
 This project presents a pricing optimization algorithm developed for Jack in the Box, aimed at maximizing profit through strategic price adjustments. The algorithm is designed to adjust the price of items, specifically the $1.49 Any Size French Fries, to a more appealing price point of $0.99 to attract more customers and increase sales volume.
 
